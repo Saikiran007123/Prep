@@ -1,0 +1,18 @@
+Cracking a product-based company like Amazon, Facebook, Microsoft, or Atlassian requires a strong foundation in computer science concepts and skills. Here is a general 6-month schedule to prepare for interviews at these companies from the basics:
+
+Month 1-2: Basic Programming Skills
+
+Refresh your knowledge of basic programming concepts such as loops, conditional statements, and data types.
+Learn a programming language (such as Python or Java) and become proficient in it.
+Practice implementing algorithms and data structures, such as sorting algorithms, linked lists, trees, and graphs.
+Month 3-4: Advanced Programming Concepts
+
+Learn more advanced algorithms and data structures, such as dynamic programming, binary search, and advanced graph algorithms.
+Practice implementing these algorithms and data structures in a programming language of your choice.
+Participate in online coding competitions such as Codeforces, CodeChef, or Topcoder to practice problem-solving under time pressure.
+Month 5-6: Technical Interview Preparation
+
+Read and practice with interview preparation books such as "Cracking the Coding Interview" by Gayle Laakmann McDowell.
+Practice solving interview-style problems, particularly those asked by the companies you are targeting.
+Participate in mock interviews with friends, family, or other aspiring candidates to practice communication, problem-solving, and whiteboarding skills.
+Remember, the above schedule is just a general guideline, and your preparation may vary depending on your current level of knowledge and experience. It's also important to maintain a regular practice schedule and stay motivated throughout the process. Good luck!

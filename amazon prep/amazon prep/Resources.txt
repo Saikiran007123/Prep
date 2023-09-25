@@ -1,0 +1,16 @@
+Sure! Here are some resources that can help you prepare for interviews at product-based companies like Amazon, Facebook, Microsoft, and Atlassian:
+
+Basic Programming Skills:
+
+"Python for Everybody" by Dr. Charles Severance (Free online course): https://www.py4e.com/
+"Java Programming and Software Engineering Fundamentals" by Duke University (Free online course): https://www.coursera.org/learn/java-programming
+Advanced Programming Concepts:
+
+"Algorithms, Part I" and "Algorithms, Part II" by Princeton University (Free online courses): https://www.coursera.org/learn/algorithms-part1, https://www.coursera.org/learn/algorithms-part2
+"Introduction to Algorithms" by MIT (Free online course): https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+Technical Interview Preparation:
+
+"Cracking the Coding Interview" by Gayle Laakmann McDowell (Book): https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/
+"Programming Interviews Exposed" by John Mongan, Noah Suojanen, and Eric Giguère (Book): https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/111941847X/
+LeetCode (Online platform with a large collection of interview-style coding problems): https://leetcode.com/
+In addition to the resources above, you can also practice by solving problems on competitive programming platforms such as Codeforces, CodeChef, or Topcoder. Finally, participating in mock interviews with friends, family, or other aspiring candidates can also help you practice communication, problem-solving, and whiteboarding skills.
